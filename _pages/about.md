@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student from the Institute of Health Informatics at University of Minnesota, working with Prof. Rui Zhang. Before that, I received Bachelor of Medicine degree from Fudan University in 2016.
+I am a second-year Ph.D. student from the [Institute for Health Informatics](https://healthinformatics.umn.edu/) at [University of Minnesota](https://twin-cities.umn.edu/), working with Prof. [Rui Zhang](https://med.umn.edu/bio/rui-zhang). Before that, I received Bachelor of Medicine degree from Fudan University in 2016.
+
+My research interests:
 
 
 News
