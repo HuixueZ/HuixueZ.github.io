@@ -12,5 +12,5 @@ Preprint
 
 Conference/Journal Papers
 --------
-* **Zhou, H.**, Silverman, G., Niu, Z., Silverman, J., Zhang, R., Evans, R., & Austin, R. (2022, June). Annotating Music Therapy, Chiropractic and Aquatic Exercise Using Electronic Health Record. In 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI) (pp. 610-611). IEEE.
+* **Zhou, H.**, Silverman, G., Niu, Z., Silverman, J., Zhang, R., Evans, R., & Austin, R. , "Annotating Music Therapy, Chiropractic and Aquatic Exercise Using Electronic Health Record," 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI), Rochester, MN, USA, 2022, pp. 610-611, doi: 10.1109/ICHI54592.2022.00121.
 * **Zhou H**, Austin R, Kilicoglu H, Lu SC, Zhang R. CIHLex: Complementary and Integrative Health Lexicon. In: AMIA 2022, American Medical Informatics Association Annual Symposium, Washington, DC, USA, November 5-9, 2022 [Internet]. 2022. Available from: https://knowledge.amia.org/76677-amia-1.4637602/f008-1.4640715/f008-1.4640716/781-1.4640726/875-1.4640723
