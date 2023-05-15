@@ -16,7 +16,7 @@ I am particularly interested in the field of medical and biological informatics,
 
 News
 ------
-None
+May 2023: One paper accepted by TACL.
 
 
 
