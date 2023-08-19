@@ -7,8 +7,10 @@ author_profile: true
 
 Preprint
 --------
-* Prompt Based Few-Shot Learning for Biomedical Relation Extraction: An Initial Investigation of ChatGPT and large language models. **Huixue Zhou**, Xueqing Peng, Raja, Kalpana, Hua Xu, Rui Zhang
-* Complementary and Integrative Health Lexicon (CIHLex) and Entity Recognition in the Literature. **Huixue Zhou**, Robin Austin, Greg Silverman, Yuqi Zhou, Halil Kilicoglu, Sheng-Chieh Lu, Rui Zhang
+* **Huixue Zhou**, Xueqing Peng, Raja, Kalpana, Hua Xu, Rui Zhang. Prompt Based Few-Shot Learning for Biomedical Relation Extraction: An Initial Investigation of ChatGPT and large language models. 
+* **Zhou H**, Austin R, Lu SC, Silverman G, Zhou Y, Kilicoglu H, Xu H, Zhang R. Complementary and Integrative Health Lexicon (CIHLex) and Entity Recognition in the Literature. arXiv preprint arXiv:2305.17353. 2023 May 27.
+* Li M, Ye Y, Yeung J, **Zhou H**, Chu H, Zhang R. W-procer: Weighted Prototypical Contrastive Learning for Medical Few-Shot Named Entity Recognition. arXiv preprint arXiv:2305.18624. 2023 May 29.
+* Xiao Y, Hou Y, **Zhou H**, Diallo G, Fiszman M, Wolfson J, Kilicoglu H, Chen Y, Su C, Xu H, Mantyh WG. Repurposing Non-pharmacological Interventions for Alzheimer's Diseases through Link Prediction on Biomedical Literature. medRxiv. 2023:2023-05.
 
 Conference/Journal Papers
 --------
