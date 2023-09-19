@@ -11,6 +11,8 @@ Preprint
 * **Zhou H**, Austin R, Lu SC, Silverman G, Zhou Y, Kilicoglu H, Xu H, Zhang R. Complementary and Integrative Health Lexicon (CIHLex) and Entity Recognition in the Literature. arXiv preprint arXiv:2305.17353. 2023 May 27.
 * Li M, Ye Y, Yeung J, **Zhou H**, Chu H, Zhang R. W-procer: Weighted Prototypical Contrastive Learning for Medical Few-Shot Named Entity Recognition. arXiv preprint arXiv:2305.18624. 2023 May 29.
 * Xiao Y, Hou Y, **Zhou H**, Diallo G, Fiszman M, Wolfson J, Kilicoglu H, Chen Y, Su C, Xu H, Mantyh WG. Repurposing Non-pharmacological Interventions for Alzheimer's Diseases through Link Prediction on Biomedical Literature. medRxiv. 2023:2023-05.
+* Ying Liu, Haozhu Wang, **Huixue Zhou**, Mingchen Li, Yu Hou, Sicheng Zhou,Fang Wang, Rama Hoetzlein, Rui Zhang.A Review of Reinforcement Learning for Natural Language Processing, and Applications in Healthcare
+
 
 Conference/Journal Papers
 --------
