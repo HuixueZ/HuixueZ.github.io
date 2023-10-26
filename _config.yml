@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Huixue Zhou"
 title_separator          : "-"
-name                     : &name "Huixue Zhou"
+name                     : &name "Huixue"
 description              : &description "PhD student at UMN"
 url                      : https://huixuez.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
