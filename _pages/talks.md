@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Hobby"
 permalink: /talks/
 author_profile: true
 ---
