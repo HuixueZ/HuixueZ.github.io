@@ -1,11 +1,20 @@
 ---
 layout: archive
-title: "Fellowship and Reward"
+title: "Hobby"
 permalink: /talks/
 author_profile: true
 ---
 
-* Health Informatics (HI) Fellowship, University of Minnesota, Twin Cities, 2021-2022
-* Top Grade Prize of the Scholarship for HongKong, Macau, and Overseas Chinese Students, Fudan University, 2019-2020
-* Outstanding Undergraduate Award of Fudan University, Fudan University, 2017-2019
+Sport lover
+======
+* snowboarding, my favorite winter sport!
+* swimming, engaging in long-distance freestyle swimming with a focus on perfecting the two-beat kick technique
+* pingpong
+* badminton
+* Tennis beginner
+* Surfing, top priority for learning
 
+
+Cat lover
+======
+* share my life with a wonderful cat, my closest companion
