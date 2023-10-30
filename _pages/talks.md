@@ -21,7 +21,7 @@ Cat lover
 * share my life with a wonderful cat, my closest companion
 
 
-COOKING/下周应该吃啥呢qaq
+COOKING/下周应该吃啥呢
 ======
 * 蒜香排骨/红烧肉/黄焖鸡/大盘鸡/烤肉？？？
 * 海鲜粥
