@@ -7,10 +7,11 @@ author_profile: true
 
 Preprint
 --------
-* **Huixue Zhou**, Xueqing Peng, Raja, Kalpana, Hua Xu, Rui Zhang. Prompt Based Few-Shot Learning for Biomedical Relation Extraction: An Initial Investigation of ChatGPT and large language models. 
+* Mingchen Li, M.Chen, **Huixue Zhou**, Rui Zhang. PeTailor: Improving Large Language Model by Tailored Chunk Scorer in Biomedical Triple Extraction. Preprint, 2023.
+* **Huixue Zhou**, Xueqing Peng, Raja, Kalpana, Hua Xu, Rui Zhang. Prompt Based Few-Shot Learning for Biomedical Relation Extraction: An Initial Investigation of ChatGPT and large language models, 2023.
 * Li M, Ye Y, Yeung J, **Zhou H**, Chu H, Zhang R. W-procer: Weighted Prototypical Contrastive Learning for Medical Few-Shot Named Entity Recognition. arXiv preprint arXiv:2305.18624. 2023 May 29.
 * Xiao Y, Hou Y, **Zhou H**, Diallo G, Fiszman M, Wolfson J, Kilicoglu H, Chen Y, Su C, Xu H, Mantyh WG. Repurposing Non-pharmacological Interventions for Alzheimer's Diseases through Link Prediction on Biomedical Literature. medRxiv. 2023:2023-05.
-* Ying Liu, Haozhu Wang, **Huixue Zhou**, Mingchen Li, Yu Hou, Sicheng Zhou,Fang Wang, Rama Hoetzlein, Rui Zhang.A Review of Reinforcement Learning for Natural Language Processing, and Applications in Healthcare
+* Ying Liu, Haozhu Wang, **Huixue Zhou**, Mingchen Li, Yu Hou, Sicheng Zhou,Fang Wang, Rama Hoetzlein, Rui Zhang.A Review of Reinforcement Learning for Natural Language Processing, and Applications in Healthcare, 2023.
 
 
 Conference/Journal Papers
