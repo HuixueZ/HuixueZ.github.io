@@ -21,4 +21,5 @@ main:
 
 
   - title: "Hobby"
-    url: /talks/   
+    #url: /talks/
+    url: /hobby/   
