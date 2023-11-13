@@ -20,6 +20,10 @@ Cat lover
 ======
 * share my life with a wonderful cat, my closest companion
 
+Games
+======
+* War of the Three Kingdoms
+* mahjong
 
 COOKING/下周应该吃啥呢
 ======
