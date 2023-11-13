@@ -2,7 +2,7 @@
 layout: archive
 title: "Hobby"
 excerpt: "Hobby"
-permalink: /talks/
+permalink: /hobby/
 author_profile: true
 ---
 
