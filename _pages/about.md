@@ -22,7 +22,7 @@ News
 
 **Aug 2023** One paper accpted by JHIR.
 
-**May 2023**: One paper accepted by TACL.
+**May 2023** One paper accepted by TACL.
 
 
 
