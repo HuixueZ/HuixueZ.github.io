@@ -16,6 +16,8 @@ I am particularly interested in the field of medical and biological informatics,
 
 News
 ------
+**Oct 2023** One paper accpted by NeurIPS Workshop.
+
 **Oct 2023** One paper accpted by JAMIA.
 
 **Aug 2023** One paper accpted by JHIR.
