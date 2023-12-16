@@ -7,6 +7,7 @@ author_profile: true
 
 Preprint
 --------
+* **Huixue Zhou** Mingchen Li,, Yongkang Xiao, Han Yang, Rui Zhang.LLM Instruction-Example Adaptive Prompting (LEAP) Framework for Clinical Relation Extraction.2023.
 * Junda Wang, Zonghai Yao, Zhichao Yang, **Huixue Zhou**, Rumeng Li, Xun Wang, Yucheng Xu, Hong Yu.NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes.2023.
 https://doi.org/10.48550/arXiv.2310.15959
 * Zihao Zhang, Zonghai Yao, **Huixue Zhou**, Feiyun ouyang, Hong Yu. EHRTutor: Enhancing Patient Understanding of Discharge Instructions.2023.https://doi.org/10.48550/arXiv.2310.19212
