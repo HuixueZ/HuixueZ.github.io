@@ -8,7 +8,7 @@ author_profile: true
 Preprint
 --------
 * **Huixue Zhou**, Mingchen Li, Yongkang Xiao, Han Yang, Rui Zhang.LLM Instruction-Example Adaptive Prompting (LEAP) Framework for Clinical Relation Extraction.2023.
-* Mingchen Li, **Huixue Zhou**, Rui Zhang. RT: A Retrieving and Chain-of-Thought Framework for Few-Shot Medical Named Entity Recognition.2023
+* Mingchen Li, **Huixue Zhou**, Rui Zhang. RT: A Retrieving and Chain-of-Thought Framework for Few-Shot Medical Named Entity Recognition.2023.https://doi.org/10.1101/2023.12.15.23300059
 * Han Yang, Mingchen Li, **Huixue Zhou**,Yongkang Xiao, Qian Fang, Rui Zhang. One LLM is not Enough: Harnessing the Power of Ensemble Learning for Medical Question Answering.2023
 * Junda Wang, Zonghai Yao, Zhichao Yang, **Huixue Zhou**, Rumeng Li, Xun Wang, Yucheng Xu, Hong Yu.NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes.2023.
 https://doi.org/10.48550/arXiv.2310.15959
