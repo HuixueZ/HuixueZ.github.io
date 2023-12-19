@@ -24,6 +24,11 @@ Courses
 * Health statistics.
 
 
+Services
+======
+* Reviewer in Journal of the American Medical Informatics Association (JAMIA), AMIA Clinical Informatics Conference
+
+
 Skills
 ======
 * C, Python, R
