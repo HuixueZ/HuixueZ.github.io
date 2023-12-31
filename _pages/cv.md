@@ -20,8 +20,10 @@ Courses
 * Machine Learning Fundamentals
 * Advanced Machine Learning
 * Natural Language Processing
-* Health Data Analytics and Data Science
-* Health statistics.
+* Clinical Data Mining
+* Biostatistics
+* Internal Medicine
+* Surgery
 
 
 Services
