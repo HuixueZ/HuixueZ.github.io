@@ -9,7 +9,7 @@ author_profile: true
 Sport lover
 ======
 * snowboarding, my favorite winter sport!
-* swimming, engaging in long-distance freestyle swimming with a focus on perfecting the two-beat kick technique
+* swimming, daliy
 * pingpong
 * badminton
 * Tennis beginner
