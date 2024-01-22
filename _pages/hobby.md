@@ -27,7 +27,7 @@ Games
 
 COOKING/下周应该吃啥呢
 ======
-* 还是吃泡面吧，please dm me if you have any recomend instant food!
+* 还是吃泡面吧，please dm me if you have any recommend instant food!
 * 蒜香排骨/红烧肉/黄焖鸡/大盘鸡/啫啫煲/烤肉/糖醋排骨
 * 想学锅包肉，明尼到底哪里有好吃的锅包肉
 * 蒜蓉蒸虾/蒸鱼/煎鱼
