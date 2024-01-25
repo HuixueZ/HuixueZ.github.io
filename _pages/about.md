@@ -16,6 +16,8 @@ I am particularly interested in the field of medical and biological informatics,
 
 News
 ------
+**Dec 2023** I finally can swim 1000 meters freestyle continuously!
+
 **Dec 2023** One paper accepted by AMIA 2024 Informatics Summit.
 
 **Oct 2023** One paper accpted by NeurIPS Workshop.
