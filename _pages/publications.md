@@ -29,7 +29,7 @@ retrieval and Chain-of-Thought processes, demonstrating enhanced LLM performance
 * [JHIR] **Zhou, H.**, Silverman, G., Niu, Z. et al. Extracting Complementary and Integrative Health Approaches in Electronic Health Records. J Healthc Inform Res 7, 277–290 (2023).
 https://doi.org/10.1007/s41666-023-00137-2
 * [Sci. Rep.] Xiao Y, Hou Y, **Zhou, H.**, Diallo G, Fiszman M, Wolfson J, Kilicoglu H, Chen Y, Su C, Xu H, Mantyh WG. Repurposing Non-pharmacological Interventions for Alzheimer’s Diseases through Link Prediction on Biomedical Literature. medRxiv. 2023:2023-05.(accepted by Natural Scientific Reports)
-* [ICHI’22]**Zhou, H.**, Silverman, G., Niu, Z., Silverman, J., Zhang, R., Evans, R., & Austin, R. (2022).Annotating Music Therapy, Chiropractic and Aquatic Exercise Using Electronic Health Record. 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI), 610–611. https://doi.org/10.1109/ICHI54592.2022.00121
+* [ICHI’22] **Zhou, H.**, Silverman, G., Niu, Z., Silverman, J., Zhang, R., Evans, R., & Austin, R. (2022).Annotating Music Therapy, Chiropractic and Aquatic Exercise Using Electronic Health Record. 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI), 610–611. https://doi.org/10.1109/ICHI54592.2022.00121
 * [AMIA’22] **Zhou, H.**, Austin R, Kilicoglu H, Lu SC, Zhang R. CIHLex: Complementary and Integrative Health Lexicon. In: AMIA 2022, American Medical Informatics Association Annual Symposium, Washington, DC, USA, November 5-9, 2022 [Internet]. 2022. Available from: https://knowledge.amia.org/76677-amia-1.4637602/f008-1.4640715/f008-1.4640716/781-
 1.4640726/875-1.4640723
 
