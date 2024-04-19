@@ -20,8 +20,8 @@ arXiv:2305.18624. 2023 May 29.
 
 Conference/Journal Papers
 --------
-*  [JAMIA] Li, M., Zhou, H., Zhang, R.(2023). RT: A Retrieving and Chain-of-Thought Framework for Few-Shot Medical Named Entity Recognition
-retrieval and Chain-of-Thought processes, demonstrating enhanced LLM performance through systematic reasoning and example-based instruction tuning.)
+*  [JAMIA] Li, M., **Zhou, H.**, Yang,H., Zhang, R.(2023). RT: A Retrieving and Chain-of-Thought Framework for Few-Shot Medical Named Entity Recognition
+retrieval and Chain-of-Thought processes(accepted)
 * [ICLR workshop’24] Chen,T., Da, L., **Zhou, H.**, Li,P., Zhou,K., Chen, T., Wei, H.(2024) Privacy-preserving Finetuning of Large Language Models through Flatness.https://doi.org/10.48550/arXiv.2310.18463 
 * [NeurIPS workshop’23] Zhang, Z., Yao, Z., **Zhou, H.**, ouyang, F., & Yu, H. (2023). EHRTutor: Enhancing Patient Understanding of Discharge Instructions.https://doi.org/10.48550/ARXIV.2310.19212
 * [JAMIA] **Zhou, H.**, Austin, R., Lu, S.-C., Silverman, G. M., Zhou, Y., Kilicoglu, H., Xu, H., & Zhang, R. (2024). Complementary and Integrative Health Information in the literature: Its lexicon and named entity recognition. Journal of the American Medical Informatics Association, 31(2), 426–434.https://doi.org/10.1093/jamia/ocad216
