@@ -9,7 +9,7 @@ Preprint
 --------
 * **Zhou, H.**, Li, M., Xiao, Y., Yang, H., & Zhang, R. (2023). LLM Instruction-Example Adaptive Prompting (LEAP) Framework for Clinical Relation Extraction [Preprint]. Health
 Informatics.https://doi.org/10.1101/2023.12.15.23300059
-* Li, M., M.Chen, **Zhou, H.**, Zhang,R.(2023). PeTailor: Improving Large Language Model by Tailored Chunk Scorer in Biomedical Triple Extraction.2023.https://doi.org/10.48550/arXiv.2310.18463
+* Li, M., **Zhou, H.**, Zhang,R.(2023). PeTailor: Improving Large Language Model by Tailored Chunk Scorer in Biomedical Triple Extraction.2023.https://doi.org/10.48550/arXiv.2310.18463
 * Yang, H., Li, M., Xiao, Y., **Zhou, H.**, Zhang, R., & Fang, Q. (2023). One LLM is not Enough: Harnessing the Power of Ensemble Learning for Medical Question Answering [Preprint]. Health Informatics. https://doi.org/10.1101/2023.12.21.23300380 
 * Wang, J., Yao, Z., Yang, Z., **Zhou, H.**, Li, R., Wang, X., Xu, Y., & Yu, H. (2023). NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes.
 https://doi.org/10.48550/ARXIV.2310.15959
