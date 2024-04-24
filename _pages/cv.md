@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Health Informatics, University of Minnesota, 2021-Present
-* B.M. in Preventive Medicine, Fudan University, 2016-2021
+* MBBS in Preventive Medicine, Fudan University, 2016-2021
 
 
 Courses
