@@ -11,7 +11,6 @@ Preprint
 Informatics.https://doi.org/10.1101/2023.12.15.23300059
 * Li, M., **Zhou, H.**, Zhang,R.(2023). PeTailor: Improving Large Language Model by Tailored Chunk Scorer in Biomedical Triple Extraction.2023.https://doi.org/10.48550/arXiv.2310.18463
 * Yang, H., Li, M., Xiao, Y., **Zhou, H.**, Zhang, R., & Fang, Q. (2023). One LLM is not Enough: Harnessing the Power of Ensemble Learning for Medical Question Answering [Preprint]. Health Informatics. https://doi.org/10.1101/2023.12.21.23300380 
-* Wang, J., Yao, Z., Yang, Z., **Zhou, H.**, Li, R., Wang, X., Xu, Y., & Yu, H. (2023). NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes.
 https://doi.org/10.48550/ARXIV.2310.15959
 * Li, M., Ye, Y., Yeung, J.,**Zhou, H.**, Chu, H., Zhang, R.(2023). W-procer: Weighted Prototypical Contrastive Learning for Medical Few-Shot Named Entity Recognition. arXiv preprint
 arXiv:2305.18624. 2023 May 29.
@@ -20,6 +19,7 @@ arXiv:2305.18624. 2023 May 29.
 
 Conference/Journal Papers
 --------
+*   [ACL] Wang, J., Yao, Z., Yang, Z., **Zhou, H.**, Li, R., Wang, X., Xu, Y., & Yu, H. (2023). NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes.
 *  [JAMIA] Li, M., **Zhou, H.**, Yang,H., Zhang, R.(2023). RT: A Retrieving and Chain-of-Thought Framework for Few-Shot Medical Named Entity Recognition
 retrieval and Chain-of-Thought processes(accepted)
 * [ICLR workshop’24] Chen,T., Da, L., **Zhou, H.**, Li,P., Zhou,K., Chen, T., Wei, H.(2024) Privacy-preserving Finetuning of Large Language Models through Flatness.https://doi.org/10.48550/arXiv.2310.18463 
