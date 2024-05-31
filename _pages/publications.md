@@ -7,8 +7,7 @@ author_profile: true
 
 Preprint
 --------
-* **Zhou, H.**, Li, M., Xiao, Y., Yang, H., & Zhang, R. (2023). LLM Instruction-Example Adaptive Prompting (LEAP) Framework for Clinical Relation Extraction [Preprint]. Health
-Informatics.https://doi.org/10.1101/2023.12.15.23300059
+
 * Li, M., **Zhou, H.**, Zhang,R.(2023). PeTailor: Improving Large Language Model by Tailored Chunk Scorer in Biomedical Triple Extraction.2023.https://doi.org/10.48550/arXiv.2310.18463
 * Yang, H., Li, M., Xiao, Y., **Zhou, H.**, Zhang, R., & Fang, Q. (2023). One LLM is not Enough: Harnessing the Power of Ensemble Learning for Medical Question Answering [Preprint]. Health Informatics. https://doi.org/10.1101/2023.12.21.23300380 
 https://doi.org/10.48550/ARXIV.2310.15959
@@ -19,6 +18,7 @@ arXiv:2305.18624. 2023 May 29.
 
 Conference/Journal Papers
 --------
+*  [JAMIA] **Zhou, H.**, Li, M., Xiao, Y., Yang, H., & Zhang, R. (2023). LLM Instruction-Example Adaptive Prompting (LEAP) Framework for Clinical Relation Extraction [Preprint].https://doi.org/10.1101/2023.12.15.23300059 (accepted)
 *   [ACL] Wang, J., Yao, Z., Yang, Z., **Zhou, H.**, Li, R., Wang, X., Xu, Y., & Yu, H. (2023). NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes.
 *  [JAMIA] Li, M., **Zhou, H.**, Yang,H., Zhang, R.(2023). RT: A Retrieving and Chain-of-Thought Framework for Few-Shot Medical Named Entity Recognition
 retrieval and Chain-of-Thought processes(accepted)
