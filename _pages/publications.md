@@ -7,7 +7,7 @@ author_profile: true
 
 Preprint
 --------
-
+* **Zhou, H.**,Chow L, Harnack L, Zhang,R.(2024).NutriRAG: Unleashing the Power of Large Language Models for Food Identification and Classification through Retrieval Methods
 * Li, M., **Zhou, H.**, Zhang,R.(2023). PeTailor: Improving Large Language Model by Tailored Chunk Scorer in Biomedical Triple Extraction.2023.https://doi.org/10.48550/arXiv.2310.18463
 * Yang, H., Li, M., Xiao, Y., **Zhou, H.**, Zhang, R., & Fang, Q. (2023). One LLM is not Enough: Harnessing the Power of Ensemble Learning for Medical Question Answering [Preprint]. Health Informatics. https://doi.org/10.1101/2023.12.21.23300380 
 https://doi.org/10.48550/ARXIV.2310.15959
