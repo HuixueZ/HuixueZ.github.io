@@ -13,11 +13,12 @@ Preprint
 https://doi.org/10.48550/ARXIV.2310.15959
 * Li, M., Ye, Y., Yeung, J.,**Zhou, H.**, Chu, H., Zhang, R.(2023). W-procer: Weighted Prototypical Contrastive Learning for Medical Few-Shot Named Entity Recognition. arXiv preprint
 arXiv:2305.18624. 2023 May 29.
-* Liu, Y., Wang, H., **Zhou, H.**, Li, M., Hou, Y., Zhou, S., Wang, F., Hoetzlein, R., & Zhang, R. (2023). A Review of Reinforcement Learning for Natural Language Processing, and Applications in Healthcare. https://doi.org/10.48550/ARXIV.2310.18354
+
 
 
 Conference/Journal Papers
 --------
+*  [JAMIA] Liu, Y., Wang, H., **Zhou, H.**, Li, M., Hou, Y., Zhou, S., Wang, F., Hoetzlein, R., & Zhang, R. (2023). A Review of Reinforcement Learning for Natural Language Processing, and Applications in Healthcare. https://doi.org/10.48550/ARXIV.2310.18354(accepted)
 *  [JAMIA] **Zhou, H.**, Li, M., Xiao, Y., Yang, H., & Zhang, R. (2023). LLM Instruction-Example Adaptive Prompting (LEAP) Framework for Clinical Relation Extraction [Preprint].https://doi.org/10.1101/2023.12.15.23300059 (accepted)
 *   [ACL] Wang, J., Yao, Z., Yang, Z., **Zhou, H.**, Li, R., Wang, X., Xu, Y., & Yu, H. (2023). NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes.
 *  [JAMIA] Li, M., **Zhou, H.**, Yang,H., Zhang, R.(2023). RT: A Retrieving and Chain-of-Thought Framework for Few-Shot Medical Named Entity Recognition
