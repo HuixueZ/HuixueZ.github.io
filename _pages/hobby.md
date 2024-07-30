@@ -8,11 +8,10 @@ author_profile: true
 
 Sport lover
 ======
-* snowboarding, my favorite winter sport!
-* swimming
+* snowboarding, my favorite winter sport! 
+* swimming （希望今年1000米能进20分钟！
 * pingpong
 * badminton
-* Tennis beginner
 * Surfing, top priority for learning
 
 
@@ -22,8 +21,8 @@ Cat lover
 
 Games
 ======
-* War of the Three Kingdoms
-* mahjong
+* War of the Three Kingdoms(垃圾三国杀，垃圾三国杀，垃圾三国杀！！！)
+* mahjong（我为啥一直升不了雀豪）
 
 COOKING/下周应该吃啥呢
 ======
