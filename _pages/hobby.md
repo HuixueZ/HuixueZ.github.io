@@ -19,10 +19,10 @@ Cat lover
 ======
 * share my life with a wonderful cat, my closest companion
 
-Games
+Games (No time for games now....)
 ======
 * War of the Three Kingdoms(垃圾三国杀，垃圾三国杀，垃圾三国杀！！！)
-* mahjong（我为啥一直升不了雀豪）
+* mahjong
 
 COOKING/下周应该吃啥呢
 ======
