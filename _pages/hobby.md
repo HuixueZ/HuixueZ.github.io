@@ -19,7 +19,7 @@ Cat lover
 ======
 * share my life with a wonderful cat, my closest companion
 
-Games (No time for games now....)
+Games 
 ======
 * War of the Three Kingdoms(垃圾三国杀，垃圾三国杀，垃圾三国杀！！！)
 * mahjong
