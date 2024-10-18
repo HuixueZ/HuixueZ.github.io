@@ -28,7 +28,7 @@ Courses
 
 Services
 ======
-* Reviewer in Journal of the American Medical Informatics Association (JAMIA), AMIA Conference, AMIA Clinical Informatics Conference
+* Reviewer in Journal of the American Medical Informatics Association (JAMIA), AMIA Conference, AMIA Clinical Informatics Conference, ACL, ICHI
 
 
 Skills
