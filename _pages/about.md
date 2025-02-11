@@ -14,9 +14,9 @@ Research interests:
 I am particularly interested in the field of medical and biological informatics, with a strong focus on developing Natural Language Processing techniques for healthcare data. My goal is to use these techniques to extract and analyze information from large volumes of healthcare-related data, in order to gain new insights and improve patient outcomes.
 
 
-News
-------
-**Dec 2023** I finally can swim 1000 meters freestyle continuously!
+<!-- News
+ ------
+ **Dec 2023** I finally can swim 1000 meters freestyle continuously! 
 
 **Dec 2023** One paper accepted by AMIA 2024 Informatics Summit.
 
@@ -26,7 +26,7 @@ News
 
 **Aug 2023** One paper accpted by JHIR.
 
-**May 2023** One paper accepted by TACL.
+**May 2023** One paper accepted by TACL.>
 
 
 
