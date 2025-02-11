@@ -26,7 +26,7 @@ I am particularly interested in the field of medical and biological informatics,
 
 **Aug 2023** One paper accpted by JHIR.
 
-**May 2023** One paper accepted by TACL.>
+**May 2023** One paper accepted by TACL.-->
 
 
 
