@@ -18,6 +18,8 @@ arXiv:2305.18624. 2023 May 29.
 
 Conference/Journal Papers
 --------
+*  [ACL25] **Zhou, H.**, Gu, H., Zan, Z., Liu, X., Zhou, K., Liang, M., Govindan, S., Chawla, P., Yang, J., Meng, X., Li,H., Zhang, B., Luo, L., Chen, W.-Y., Han, Y., Long, B., Zhang, R & Chen, T. (2024). The efficiency vs. accuracy trade-off: Optimizing RAG-enhanced LLM recommender systems using multi-head earlyexit.
+*  [JBI] Xiao, Y., Zhang, S., Zhou, H., Li, M., Yang, H. and Zhang, R.,. FuseLinker: Leveraging LLM’s pre-trained text embeddings and domain knowledge to enhance GNN-based link prediction on biomedical knowledge graphs.2024. Journal of Biomedical Informatics, 158, p.104730
 *  [JAMIA] Liu, Y., Wang, H., **Zhou, H.**, Li, M., Hou, Y., Zhou, S., Wang, F., Hoetzlein, R., & Zhang, R. (2023). A Review of Reinforcement Learning for Natural Language Processing, and Applications in Healthcare. https://doi.org/10.48550/ARXIV.2310.18354(accepted)
 *  [JAMIA] **Zhou, H.**, Li, M., Xiao, Y., Yang, H., & Zhang, R. (2023). LLM Instruction-Example Adaptive Prompting (LEAP) Framework for Clinical Relation Extraction [Preprint].https://doi.org/10.1101/2023.12.15.23300059 (accepted)
 *   [ACL] Wang, J., Yao, Z., Yang, Z., **Zhou, H.**, Li, R., Wang, X., Xu, Y., & Yu, H. (2023). NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes.
