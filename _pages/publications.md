@@ -17,6 +17,7 @@ Preprint
 Conference/Journal Papers
 --------
 *  [ACL25] **Zhou, H.**, Gu, H., Zan, Z., Liu, X., Zhou, K., Liang, M., Govindan, S., Chawla, P., Yang, J., Meng, X., Li,H., Zhang, B., Luo, L., Chen, W.-Y., Han, Y., Long, B., Zhang, R & Chen, T. (2024). The efficiency vs. accuracy trade-off: Optimizing RAG-enhanced LLM recommender systems using multi-head earlyexit.
+*  [AMIA25] **Zhou, H.**, Zhang Y., Xu, Z., Su, C, Lim K., Johnson A., Solomonov, N., Wang, F., Zhang, R. Evaluating the Effectiveness of Complementary and Integrative Health Therapies in Preventing Postpartum Depression: A Target Trial Emulation Study.
 * [JMIR] Yang, H., Li, M., Xiao, Y., **Zhou, H.**, Zhang, R., & Fang, Q. (2023). One LLM is not Enough: Harnessing the Power of Ensemble Learning for Medical Question Answering [Preprint]. Health Informatics. https://doi.org/10.1101/2023.12.21.23300380 
 https://doi.org/10.48550/ARXIV.2310.15959
 *  [JBI] Xiao, Y., Zhang, S., **Zhou, H.**, Li, M., Yang, H. and Zhang, R.,. FuseLinker: Leveraging LLM’s pre-trained text embeddings and domain knowledge to enhance GNN-based link prediction on biomedical knowledge graphs.2024. Journal of Biomedical Informatics, 158, p.104730
