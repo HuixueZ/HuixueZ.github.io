@@ -16,7 +16,9 @@ Preprint
 
 Conference/Journal Papers
 --------
-*  [ACL25] **Zhou, H.**, Gu, H., Zan, Z., Liu, X., Zhou, K., Liang, M., Govindan, S., Chawla, P., Yang, J., Meng, X., Li,H., Zhang, B., Luo, L., Chen, W.-Y., Han, Y., Long, B., Zhang, R & Chen, T. (2024). The efficiency vs. accuracy trade-off: Optimizing RAG-enhanced LLM recommender systems using multi-head earlyexit.
+* [EMNLP Finding] Xiao, Y., Zhang, S., Dai, Y., **Zhou, H.**, Hou, J. ,Ding, J., Zhang, R. (2025). DrKGC: Dynamic Subgraph Retrieval-Augmented LLMs for Knowledge Graph Completion across General and Biomedical Domains. (accepted)
+* [Neurology Clinical Practice ]  **Zhou, H.**, Rajamani, G., Huang, J., Jorand-Fletcher, M., Mohamed, Y., DeGolier, K., Xenopoulos-Oddsson, A., Cui, E., Zingariello, C., Zhang, R.,Kang, P. (2025). Accelerating Medical Record Data Abstraction and Analysis in Muscular Dystrophy: Large Language Models and ICD Codes. (accepted)
+*  [ACL25] **Zhou, H.**, Gu, H., Zan, Z., Liu, X., Zhou, K., Liang, M., Govindan, S., Chawla, P., Yang, J., Meng, X., Li,H., Zhang, B., Luo, L., Chen, W.-Y., Han, Y., Long, B., Zhang, R & Chen, T. (2025). The efficiency vs. accuracy trade-off: Optimizing RAG-enhanced LLM recommender systems using multi-head earlyexit.
 *  [AMIA25] **Zhou, H.**, Zhang Y., Xu, Z., Su, C, Lim K., Johnson A., Solomonov, N., Wang, F., Zhang, R. Evaluating the Effectiveness of Complementary and Integrative Health Therapies in Preventing Postpartum Depression: A Target Trial Emulation Study.
 * [JMIR] Yang, H., Li, M., Xiao, Y., **Zhou, H.**, Zhang, R., & Fang, Q. (2023). One LLM is not Enough: Harnessing the Power of Ensemble Learning for Medical Question Answering [Preprint]. Health Informatics. https://doi.org/10.1101/2023.12.21.23300380 
 https://doi.org/10.48550/ARXIV.2310.15959
