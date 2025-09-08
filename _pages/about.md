@@ -13,9 +13,8 @@ I am a fifth-year Ph.D. student from the [Institute for Health Informatics](http
 Research interests:
 I am particularly interested in the field of medical and biological informatics, with a strong focus on developing Natural Language Processing techniques for healthcare data. My goal is to use these techniques to extract and analyze information from large volumes of healthcare-related data, in order to gain new insights and improve patient outcomes.
 
-
- News
- ------
+News
+------
  
 **Aug 2025** One paper accepted by EMNLP 2025.
 
