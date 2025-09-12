@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Health Informatics, University of Minnesota, 2021-Present
-* MBBS in Preventive Medicine, Fudan University, 2016-2021
+* MBBS in Preventive Medicine (equivalent to U.S. MD), Fudan University, 2016-2021
 
 
 Courses
@@ -31,10 +31,16 @@ Services
 * Reviewer in Journal of the American Medical Informatics Association (JAMIA), AMIA Conference, AMIA Clinical Informatics Conference, ACL, ICHI
 
 
+
+Teaching
+======
+* Teaching Assistant, HINF 5430, University of Minnesota, Spring 2023 and Fall 2022
+
 Skills
 ======
 * C, Python, R
 * PyTorch, TensorFlow, LATEX
+  
 
 Fellowship and Reward
 ======
