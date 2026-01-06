@@ -11,7 +11,10 @@ redirect_from:
 I am a Ph.D. candidate from the [Institute for Health Informatics](https://healthinformatics.umn.edu/) at [University of Minnesota](https://twin-cities.umn.edu/), working with Prof. [Rui Zhang](https://med.umn.edu/bio/rui-zhang). Before that, I received MBBS degree (equivalent to U.S. MD) from Fudan University in 2021.
 
 Research interests:
-I am particularly interested in the field of medical and biological informatics, with a strong focus on developing Natural Language Processing techniques for healthcare data. My goal is to use these techniques to extract and analyze information from large volumes of healthcare-related data, in order to gain new insights and improve patient outcomes.
+My research focuses on **medical informatics**, with a particular emphasis on developing and applying **Natural Language Processing (NLP)** techniques for healthcare and biomedical data. I am passionate about extracting meaningful insights from large volumes of clinical and biomedical text to support evidence generation, enable knowledge discovery, and improve health outcomes.
+
+
+**I am broadly interested in both academic and industry research and am open to relevant opportunities related to NLP, clinical informatics, and data-driven healthcare applications.**
 
 News
 ------
