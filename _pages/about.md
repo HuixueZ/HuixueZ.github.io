@@ -14,6 +14,11 @@ I am a Ph.D. candidate from the [Institute for Health Informatics](https://healt
 
 My research focuses on **medical informatics**, with a particular emphasis on developing and applying **Natural Language Processing (NLP)** techniques for healthcare and biomedical data. I am passionate about extracting meaningful insights from large volumes of clinical and biomedical text to support evidence generation, enable knowledge discovery, and improve health outcomes.
 
+🤝 Open to collaboration opportunities in healthcare AI, clinical informatics, and biomedical NLP
+
+**I am broadly interested in both academic and industry research opportunities related to NLP, clinical informatics, and data-driven healthcare applications.**
+
+
 ## Research Highlights
 
 ### 🔬 Clinical NLP & Information Extraction
@@ -27,13 +32,6 @@ Building AI systems that transform messy, real-world clinical data into actionab
 
 [See all publications →](/publications/)
 
-## Currently Working On
-
-🔬 Large language models for automated clinical documentation and analysis
-
-🤝 Open to collaboration opportunities in healthcare AI, clinical informatics, and biomedical NLP
-
-**I am broadly interested in both academic and industry research opportunities related to NLP, clinical informatics, and data-driven healthcare applications.**
 
 ## News
 
